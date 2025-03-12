@@ -38,7 +38,6 @@ pip-log.txt
 pip-delete-this-directory.txt
 poetry.lock
 Pipfile.lock
-requirements.txt
 conda-lock.yml
 
 # Ignore Jupyter kernel and configuration files
