@@ -1,0 +1,47 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+*.venv/
+
+# Ignore Jupyter Notebook outputs (optional, if outputs should not be tracked)
+*.out
+*.log
+
+# Ignore temporary and cache files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Ignore data files (optional, if working with large datasets)
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.hdf5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+
+# Ignore environment and package manager files
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+Pipfile.lock
+requirements.txt
+conda-lock.yml
+
+# Ignore Jupyter kernel and configuration files
+.ipython/
+.jupyter/
+
